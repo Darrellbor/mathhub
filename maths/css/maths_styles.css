@@ -1,0 +1,18 @@
+@charset "utf-8";
+body {
+	margin: 0px;
+	padding: 0px;
+}
+#header {
+	padding: 20px;
+
+	background-image: url(
+../images/maths_bac_img.jpg;
+	min-height: 200px;
+	/* [disabled]background: no-repeat; */
+	background-image: url(../images/maths_bac_img.jpg);
+}
+#solver_side {
+	border-left: solid #DADADA 1px;
+	min-height:250px
+}
